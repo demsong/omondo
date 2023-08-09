@@ -1,6 +1,6 @@
-# 🔥 🔥 Smart Admin Panel & Dashboard 
+# 🔥Tableau de bord
 
-Flutter Web Smart Admin & Panel Dashboard with flutter UI kit.
+Application Wweb avec flutter
 
 
 ### Support 
@@ -26,4 +26,4 @@ Flutter Web Smart Admin & Panel Dashboard with flutter UI kit.
 
 ### 👨‍💻 Author
 
-Developed by Deniz Çolak
+demsong kengni lora mabelle
